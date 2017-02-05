@@ -22,7 +22,7 @@ the base diagram and finally arrange the fractal using the arrangment rule.
 
  - [Koch snowflake](https://en.wikipedia.org/wiki/Koch_snowflake): `koch.py`
  - [Fractal dragon](https://en.wikipedia.org/wiki/Dragon_curve): `dragon.py`
- - [Serpinksi Triangle](https://en.wikipedia.org/wiki/Sierpinski_triangle): `triangle.py`
+ - [Sierpinksi Triangle](https://en.wikipedia.org/wiki/Sierpinski_triangle): `triangle.py`
  - Tree: `tree.py`
 
 ![fractal_tree](/tree_fractal.png)
